@@ -1,0 +1,25 @@
+# Pacific Classifier - Package Builder conda environment
+# Create with:  conda env create -f environment.yml
+# Activate with: conda activate pacific
+#
+# Version ranges are bounded below by the minimum supported version and above by the
+# next major release. The full test suite + end-to-end pipeline were verified against
+# the upper end of these ranges (numpy 2.4 / pandas 3.0 / scikit-learn 1.9 /
+# xgboost 3.2 / shap 0.52 on Python 3.14).
+name: pacific
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11,<3.15
+  - numpy>=1.24,<3
+  - pandas>=2.0,<4
+  - scikit-learn>=1.3,<2
+  - scipy>=1.10,<2
+  - xgboost>=2.0,<4
+  - shap>=0.42,<1
+  - matplotlib>=3.7,<4
+  - seaborn>=0.12,<1
+  - tqdm>=4.65,<5
+  - openpyxl>=3.1,<4
+  - pytest>=7.0,<10
+  - pip
