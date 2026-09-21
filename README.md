@@ -13,6 +13,14 @@ into a self-contained classifier you can hand to end users to classify new subje
 - **Publications**: https://pacific-preserved.fr/communication/
 - **Partners**: https://pacific-preserved.fr/partners/
 
+## Citation
+
+If you use this classifier in your research, please cite:
+
+> Hulot, J.-S., Hervé, P.-Y., Girerd, N. *et al.* Multimodal data-driven clustering analysis of heart failure patients identifies two distinct patterns of heart failure with preserved ejection fraction: Results from the PACIFIC-PRESERVED study. *Nat Commun* (2026). https://doi.org/10.1038/s41467-026-77642-6
+
+DOI: [10.1038/s41467-026-77642-6](https://doi.org/10.1038/s41467-026-77642-6)
+
 ---
 
 ## ⚠️ Disclaimer — research and testing use only (not for clinical use)
@@ -386,11 +394,6 @@ Copyright © 2025 FEALINX — Pacific Project.
   <img src="images/by-nc-sa.eu_.png" align="right" width="100px"/>
 
 See [`LICENSE`](LICENSE) for the full terms.
-
-## Citation
-
-If you use this classifier in your research, please cite the Pacific Preserved project.
-See https://pacific-preserved.fr/communication/ for publications.
 
 ## Support
 
