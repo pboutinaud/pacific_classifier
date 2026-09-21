@@ -386,7 +386,7 @@ Lower `--n_models`; ≥ 16 GB RAM is recommended for the default settings.
 
 ## License
 
-Copyright © 2025 FEALINX — Pacific Project.
+Copyright © 2025 FEALINX / DV Digital — Pacific Project.
 
 - **Code** — [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html) (AGPL-3.0) or later.
   <img src="images/agplv3-155x51.png" align="right" width="100px"/>
